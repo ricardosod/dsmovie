@@ -1,0 +1,17 @@
+postgres://
+
+gghnfmlcsurzdd
+
+:
+
+1f14213ed35d1f221713e17fbb1adfdf1e4b36e9d3e35818fb92873c3c98f56c
+
+@
+
+ec2-54-208-139-247.compute-1.amazonaws.com
+:
+5432
+
+/
+
+dajlvnfd17t6ea
